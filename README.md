@@ -34,6 +34,4 @@ This project focuses on consolidating beverage order data from multiple years (2
 - ETL pipeline design
 - Data validation
 
-##  Author
-Emmanuel Emedeke
-<img width="1192" height="1420" alt="image" src="https://github.com/user-attachments/assets/d88391fd-cbd7-4fb4-8e23-dea758e84d27" />
+
