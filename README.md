@@ -34,4 +34,19 @@ This project focuses on consolidating beverage order data from multiple years (2
 - ETL pipeline design
 - Data validation
 
+##  Author
+Emmanuel Emedeke
+
+##   Team Contributors
+- Jasmine Franklin  
+- Dennis Evangelista  
+- Frank Gyasi  
+
+##  Academic Context
+This project was completed as part of the DATA 635 (Data Management) course in the Master of Science in Data Analytics program at the University of Maryland Global Campus (UMGC).
+
+## My Contribution
+- Developed ETL SQL script
+- Performed data consolidation
+- Validated final dataset
 
