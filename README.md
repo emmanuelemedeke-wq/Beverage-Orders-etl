@@ -18,6 +18,17 @@ This project focuses on consolidating beverage order data from multiple years (2
 - beverage-orders-2022 (187 rows)
 - beverage-orders-2023 (102 rows)
 
+## Data Model Entity Relationship Diagrams
+### Original Data Structure
+![ERD Original](Figure 1.png)
+
+### Updated Data Structure
+![ERD Updated](Figure 2.png)
+
+
+
+
+
 ##  ETL Process
 1. Extract data from multiple yearly datasets
 2. Transform data (cleaning, formatting, standardization)
