@@ -20,10 +20,10 @@ This project focuses on consolidating beverage order data from multiple years (2
 
 ## Data Model Entity Relationship Diagrams
 ### Original Data Structure
-![ERD Original](Figure 1.png)
+![ERD Original](erd_original.png)
 
 ### Updated Data Structure
-![ERD Updated](Figure 2.png)
+![ERD Updated](erd_updated.png)
 
 
 
