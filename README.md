@@ -1,22 +1,63 @@
 # Beverage Orders ETL Project
 
 ##  Project Overview
-This project focuses on consolidating beverage order data from multiple years (2021–2023) into a single structured dataset using ETL (Extract, Transform, Load) processes.
+This project develops an end-to-end ETL (Extract, Transform, Load) pipeline to integrate beverage order data from 2021–2023 into a single, clean, and analysis-ready dataset.
+
+The goal is to standardize inconsistent data sources and enable reliable reporting for business decision-making, including category performance, regional trends, and year-over-year analysis.
+
+## Business Problem
+
+Beverages R Us provided three separate datasets (2021–2023), but they had several issues:
+
+	• Inconsistent schema across years
+	• Missing product-to-category mapping
+	• Disconnected territory manager (VP) assignments
+	• Different column structures (e.g., caffeine and coupon data inconsistencies)
+	• Difficult to perform year-over-year and regional analysis
+  
+As a result, leadership could not generate reliable insights from the data.
+
+
 
 ##  Objective
-- Combine multiple datasets into one unified table
-- Clean and standardize data
-- Prepare data for analysis and reporting
+	• Standardize all datasets into a unified schema
+	• Map products to categories
+	• Map categories to Vice Presidents (VPs)
+	• Create calculated metrics for analysis
+	• Build a consolidated dataset for reporting and decision-making
+
+##  Dataset
+- beverage-orders-2021 (72 rows)
+- beverage-orders-2022 (187 rows)
+- beverage-orders-2023 (102 rows)
+
+All data was successfully merged into one table:
+ consolidated_beverage_data
+
+## ETL Process
+![6393298e18f50e62a1657530_ETL process DataChannel](https://github.com/user-attachments/assets/4fe1587d-9d68-4f21-922d-b68435312779)
+
+
+1. Extract
+
+	• Imported CSV files:
+		○ beverage-orders-2021.csv
+
+		○ beverage-orders-2022.csv
+
+		○ beverage-orders-2023.csv
+
+	• Loaded into MySQL staging tables using Table Import Wizard
+
+
+
 
 ##  Tools & Technologies
 - SQL (MySQL Workbench)
 - ETL processes
 - Data cleaning and transformation
 
-##  Dataset
-- beverage-orders-2021 (72 rows)
-- beverage-orders-2022 (187 rows)
-- beverage-orders-2023 (102 rows)
+
 
 ## Data Model Entity Relationship Diagrams
 ### Original Data Structure
