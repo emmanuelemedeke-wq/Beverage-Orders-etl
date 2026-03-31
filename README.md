@@ -106,7 +106,7 @@ Revenue_Quantity = Quantity * Per_Unit_Price
 SELECT COUNT(*) FROM consolidated_beverage_data;
 ```
 
-Result: 361 rows successfully loaded
+**Result:** 361 rows successfully loaded
 
 
 
