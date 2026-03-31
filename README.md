@@ -27,7 +27,7 @@ As a result, leadership could not generate reliable insights from the data.
 	• Build a consolidated dataset for reporting and decision-making
 
 ##  Dataset
-- beverage-orders-2021 (72 rows)
+- [beverage-orders-2021 (72 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2021.csv)
 - beverage-orders-2022 (187 rows)
 - beverage-orders-2023 (102 rows)
 
