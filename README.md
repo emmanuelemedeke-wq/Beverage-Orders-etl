@@ -9,6 +9,7 @@
 - [ETL Process](#etl-process)
 - [Data Model Entity Relationship Diagrams](#data-model-entity-relationship-diagrams)
 - [Final Output & Analysis](#final-output--analysis)
+- [Final Output Preview](#final-output-preview)
 - [Tools & Technologies](#tools--technologies)
 
 
@@ -150,6 +151,22 @@ SELECT Category, Year, SUM(Revenue_Quantity)
 FROM consolidated_beverage_data
 GROUP BY Category, Year;
 ```
+
+
+## Final Output Preview
+
+The consolidated dataset contains 361 records after ETL processing.
+
+Example output:
+
+| Product | Quantity | Revenue |
+|--------|----------|---------|
+| Health Potion | 142 | 78,000 |
+| Moonbeam Brew | 120 | 65,000 |
+
+ Full dataset:
+- [Download Final Output CSV](G4_output_final.csv)
+
 
 
 ##  Tools & Technologies
