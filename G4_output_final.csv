@@ -1,0 +1,346 @@
+Product,Region,State,Country,Category,Vice_President,Sum_Quantity,Sum_Volume_Quantity,Sum_Weight_Quantity,Sum_Revenue_Quantity,Year
+"Berry Blush",West,Arizona,USA,"Vitamin Drinks",Remi,48,13488,13248,29856.00,2022
+"Berry Blush",Northeast,Connecticut,USA,"Vitamin Drinks",Remi,28,7868,7728,17416.00,2021
+"Berry Blush",West,Idaho,USA,"Vitamin Drinks",Remi,11,3091,3036,6842.00,2022
+"Berry Blush",Midwest,Illinois,USA,"Vitamin Drinks",Remi,7,1967,1932,4354.00,2023
+"Berry Blush",Midwest,Indiana,USA,"Vitamin Drinks",Remi,77,21637,21252,47894.00,2021
+"Berry Blush",South,Louisiana,USA,"Vitamin Drinks",Remi,68,19108,18768,42296.00,2022
+"Berry Blush",South,Louisiana,USA,"Vitamin Drinks",Remi,95,26695,26220,59090.00,2023
+"Berry Blush",Northeast,Maine,USA,"Vitamin Drinks",Remi,49,13769,13524,30478.00,2022
+"Berry Blush",South,Maryland,USA,"Vitamin Drinks",Remi,43,12083,11868,26746.00,2021
+"Berry Blush",Northeast,Massachusetts,USA,"Vitamin Drinks",Remi,32,8992,8832,19904.00,2021
+"Berry Blush",Northeast,Massachusetts,USA,"Vitamin Drinks",Remi,57,16017,15732,35454.00,2023
+"Berry Blush",Midwest,Minnesota,USA,"Vitamin Drinks",Remi,94,26414,25944,58468.00,2023
+"Berry Blush",Midwest,Missouri,USA,"Vitamin Drinks",Remi,13,3653,3588,8086.00,2022
+"Berry Blush",West,Montana,USA,"Vitamin Drinks",Remi,64,17984,17664,39808.00,2023
+"Berry Blush",South,"North Carolina",USA,"Vitamin Drinks",Remi,25,7025,6900,15550.00,2022
+"Berry Blush",Midwest,"North Dakota",USA,"Vitamin Drinks",Remi,3,843,828,1866.00,2022
+"Berry Blush",South,Virginia,USA,"Vitamin Drinks",Remi,55,15455,15180,34210.00,2022
+"Blissful Bubbles",West,Colorado,USA,Smoothies,Remi,61,29219,20862,21655.00,2023
+"Blissful Bubbles",South,Florida,USA,Smoothies,Remi,99,47421,33858,35145.00,2023
+"Blissful Bubbles",West,Idaho,USA,Smoothies,Remi,44,21076,15048,15620.00,2022
+"Blissful Bubbles",Midwest,Indiana,USA,Smoothies,Remi,61,29219,20862,21655.00,2022
+"Blissful Bubbles",Midwest,Iowa,USA,Smoothies,Remi,57,27303,19494,20235.00,2022
+"Blissful Bubbles",Midwest,Kansas,USA,Smoothies,Remi,90,43110,30780,31950.00,2022
+"Blissful Bubbles",South,Kentucky,USA,Smoothies,Remi,5,2395,1710,1775.00,2022
+"Blissful Bubbles",South,Louisiana,USA,Smoothies,Remi,81,38799,27702,28755.00,2022
+"Blissful Bubbles",Northeast,Maine,USA,Smoothies,Remi,11,5269,3762,3905.00,2022
+"Blissful Bubbles",South,Maryland,USA,Smoothies,Remi,151,72329,51642,53605.00,2022
+"Blissful Bubbles",Northeast,Massachusetts,USA,Smoothies,Remi,70,33530,23940,24850.00,2022
+"Blissful Bubbles",Midwest,Minnesota,USA,Smoothies,Remi,97,46463,33174,34435.00,2023
+"Blissful Bubbles",Midwest,Missouri,USA,Smoothies,Remi,23,11017,7866,8165.00,2022
+"Blissful Bubbles",West,Montana,USA,Smoothies,Remi,75,35925,25650,26625.00,2023
+"Blissful Bubbles",South,"North Carolina",USA,Smoothies,Remi,38,18202,12996,13490.00,2022
+"Blissful Bubbles",West,Oregon,USA,Smoothies,Remi,7,3353,2394,2485.00,2021
+"Blissful Bubbles",South,Texas,USA,Smoothies,Remi,7,3353,2394,2485.00,2023
+"Blissful Bubbles",South,"West Virginia",USA,Smoothies,Remi,36,17244,12312,12780.00,2021
+"Blissful Bubbles",Midwest,Wisconsin,USA,Smoothies,Remi,17,8143,5814,6035.00,2022
+"Celestial Crush",West,Alaska,USA,Potions,Journey,85,41395,18360,52530.00,2022
+"Celestial Crush",West,Alaska,USA,Potions,Journey,57,27759,12312,35226.00,2023
+"Celestial Crush",West,California,USA,Potions,Journey,31,15097,6696,19158.00,2023
+"Celestial Crush",South,Florida,USA,Potions,Journey,89,43343,19224,55002.00,2022
+"Celestial Crush",West,Hawaii,USA,Potions,Journey,45,21915,9720,27810.00,2023
+"Celestial Crush",West,Hawaii,USA,Potions,Journey,34,16558,7344,21012.00,2022
+"Celestial Crush",Midwest,Illinois,USA,Potions,Journey,92,44804,19872,56856.00,2022
+"Celestial Crush",Midwest,Indiana,USA,Potions,Journey,48,23376,10368,29664.00,2023
+"Celestial Crush",Midwest,Iowa,USA,Potions,Journey,7,3409,1512,4326.00,2022
+"Celestial Crush",South,Kentucky,USA,Potions,Journey,72,35064,15552,44496.00,2023
+"Celestial Crush",South,Maryland,USA,Potions,Journey,111,54057,23976,68598.00,2023
+"Celestial Crush",West,Montana,USA,Potions,Journey,17,8279,3672,10506.00,2021
+"Celestial Crush",Midwest,Nebraska,USA,Potions,Journey,142,69154,30672,87756.00,2021
+"Celestial Crush",West,"New Mexico",USA,Potions,Journey,40,19480,8640,24720.00,2023
+"Celestial Crush",West,"New Mexico",USA,Potions,Journey,15,7305,3240,9270.00,2021
+"Celestial Crush",Midwest,"North Dakota",USA,Potions,Journey,48,23376,10368,29664.00,2023
+"Celestial Crush",South,Oklahoma,USA,Potions,Journey,80,38960,17280,49440.00,2022
+"Celestial Crush",Midwest,"South Dakota",USA,Potions,Journey,28,13636,6048,17304.00,2023
+"Celestial Crush",West,Wyoming,USA,Potions,Journey,38,18506,8208,23484.00,2023
+"Citrus Sizzle",South,Arkansas,USA,"Vitamin Drinks",Remi,82,21894,30176,37474.00,2023
+"Citrus Sizzle",South,Georgia,USA,"Vitamin Drinks",Remi,21,5607,7728,9597.00,2022
+"Citrus Sizzle",West,Hawaii,USA,"Vitamin Drinks",Remi,84,22428,30912,38388.00,2023
+"Citrus Sizzle",Midwest,Illinois,USA,"Vitamin Drinks",Remi,33,8811,12144,15081.00,2022
+"Citrus Sizzle",Midwest,Indiana,USA,"Vitamin Drinks",Remi,32,8544,11776,14624.00,2023
+"Citrus Sizzle",Northeast,Maine,USA,"Vitamin Drinks",Remi,26,6942,9568,11882.00,2022
+"Citrus Sizzle",Midwest,Nebraska,USA,"Vitamin Drinks",Remi,38,10146,13984,17366.00,2022
+"Citrus Sizzle",Northeast,"New Hampshire",USA,"Vitamin Drinks",Remi,12,3204,4416,5484.00,2022
+"Citrus Sizzle",West,"New Mexico",USA,"Vitamin Drinks",Remi,11,2937,4048,5027.00,2022
+"Citrus Sizzle",West,"New Mexico",USA,"Vitamin Drinks",Remi,74,19758,27232,33818.00,2023
+"Citrus Sizzle",Northeast,"New york",USA,"Vitamin Drinks",Remi,29,7743,10672,13253.00,2022
+"Citrus Sizzle",Midwest,"North Dakota",USA,"Vitamin Drinks",Remi,13,3471,4784,5941.00,2022
+"Citrus Sizzle",Midwest,Ohio,USA,"Vitamin Drinks",Remi,62,16554,22816,28334.00,2022
+"Citrus Sizzle",West,Oregon,USA,"Vitamin Drinks",Remi,98,26166,36064,44786.00,2022
+"Citrus Sizzle",South,"South Carolina",USA,"Vitamin Drinks",Remi,78,20826,28704,35646.00,2023
+"Citrus Sizzle",West,Utah,USA,"Vitamin Drinks",Remi,29,7743,10672,13253.00,2021
+"Citrus Sizzle",South,Virginia,USA,"Vitamin Drinks",Remi,52,13884,19136,23764.00,2022
+"Citrus Sizzle",Midwest,Wisconsin,USA,"Vitamin Drinks",Remi,76,20292,27968,34732.00,2022
+"Cosmic Coolant",South,Arkansas,USA,NULL,NULL,12,3948,4236,5052.00,2022
+"Cosmic Coolant",West,Idaho,USA,NULL,NULL,27,8883,9531,11367.00,2021
+"Cosmic Coolant",Midwest,Indiana,USA,NULL,NULL,33,10857,11649,13893.00,2022
+"Cosmic Coolant",South,Louisiana,USA,NULL,NULL,70,23030,24710,29470.00,2023
+"Cosmic Coolant",South,Maryland,USA,NULL,NULL,75,24675,26475,31575.00,2021
+"Cosmic Coolant",Midwest,Michigan,USA,NULL,NULL,1,329,353,421.00,2022
+"Cosmic Coolant",Midwest,Minnesota,USA,NULL,NULL,23,7567,8119,9683.00,2023
+"Cosmic Coolant",South,Mississippi,USA,NULL,NULL,14,4606,4942,5894.00,2022
+"Cosmic Coolant",Midwest,Missouri,USA,NULL,NULL,72,23688,25416,30312.00,2022
+"Cosmic Coolant",Midwest,Nebraska,USA,NULL,NULL,37,12173,13061,15577.00,2022
+"Cosmic Coolant",Northeast,"New Jersey",USA,NULL,NULL,77,25333,27181,32417.00,2022
+"Cosmic Coolant",Northeast,"New york",USA,NULL,NULL,76,25004,26828,31996.00,2022
+"Cosmic Coolant",South,"North Carolina",USA,NULL,NULL,98,32242,34594,41258.00,2023
+"Cosmic Coolant",Midwest,Ohio,USA,NULL,NULL,16,5264,5648,6736.00,2022
+"Cosmic Coolant",South,"South Carolina",USA,NULL,NULL,33,10857,11649,13893.00,2023
+"Cosmic Coolant",Midwest,"South Dakota",USA,NULL,NULL,23,7567,8119,9683.00,2021
+"Cosmic Coolant",West,Washington,USA,NULL,NULL,43,14147,15179,18103.00,2022
+"Cosmic Coolant",Midwest,Wisconsin,USA,NULL,NULL,87,28623,30711,36627.00,2022
+"Dreamy Droplets",South,Alabama,USA,"Soft Drinks",Buford,35,12460,11550,12145.00,2022
+"Dreamy Droplets",West,California,USA,"Soft Drinks",Buford,50,17800,16500,17350.00,2023
+"Dreamy Droplets",West,California,USA,"Soft Drinks",Buford,14,4984,4620,4858.00,2021
+"Dreamy Droplets",South,Florida,USA,"Soft Drinks",Buford,23,8188,7590,7981.00,2021
+"Dreamy Droplets",West,Hawaii,USA,"Soft Drinks",Buford,64,22784,21120,22208.00,2022
+"Dreamy Droplets",Midwest,Illinois,USA,"Soft Drinks",Buford,45,16020,14850,15615.00,2021
+"Dreamy Droplets",Midwest,Illinois,USA,"Soft Drinks",Buford,61,21716,20130,21167.00,2022
+"Dreamy Droplets",South,Kentucky,USA,"Soft Drinks",Buford,38,13528,12540,13186.00,2021
+"Dreamy Droplets",South,Maryland,USA,"Soft Drinks",Buford,94,33464,31020,32618.00,2023
+"Dreamy Droplets",Midwest,Nebraska,USA,"Soft Drinks",Buford,48,17088,15840,16656.00,2021
+"Dreamy Droplets",West,"New Mexico",USA,"Soft Drinks",Buford,14,4984,4620,4858.00,2022
+"Dreamy Droplets",West,Oregon,USA,"Soft Drinks",Buford,46,16376,15180,15962.00,2023
+"Dreamy Droplets",Midwest,"South Dakota",USA,"Soft Drinks",Buford,55,19580,18150,19085.00,2023
+"Eggs Benedict Expresso",West,Idaho,USA,"Hot Beverages",Remi,8,1632,2304,6672.00,2022
+"Eggs Benedict Expresso",Midwest,Indiana,USA,"Hot Beverages",Remi,93,18972,26784,77562.00,2022
+"Eggs Benedict Expresso",Midwest,Ohio,USA,"Hot Beverages",Remi,37,7548,10656,30858.00,2022
+"Eggs Benedict Expresso",South,Oklahoma,USA,"Hot Beverages",Remi,50,10200,14400,41700.00,2022
+"Eggs Benedict Expresso",West,Utah,USA,"Hot Beverages",Remi,93,18972,26784,77562.00,2022
+"Eggs Benedict Expresso",South,Virginia,USA,"Hot Beverages",Remi,99,20196,28512,82566.00,2022
+"Electric Elixir",South,Alabama,USA,"Hot Beverages",Remi,60,22440,24360,22020.00,2021
+"Electric Elixir",South,Alabama,USA,"Hot Beverages",Remi,31,11594,12586,11377.00,2022
+"Electric Elixir",South,Delaware,USA,"Hot Beverages",Remi,74,27676,30044,27158.00,2022
+"Electric Elixir",Midwest,Indiana,USA,"Hot Beverages",Remi,75,28050,30450,27525.00,2022
+"Electric Elixir",Northeast,Massachusetts,USA,"Hot Beverages",Remi,72,26928,29232,26424.00,2023
+"Electric Elixir",Midwest,Michigan,USA,"Hot Beverages",Remi,6,2244,2436,2202.00,2021
+"Electric Elixir",Midwest,Nebraska,USA,"Hot Beverages",Remi,14,5236,5684,5138.00,2023
+"Electric Elixir",Northeast,"New Hampshire",USA,"Hot Beverages",Remi,99,37026,40194,36333.00,2023
+"Electric Elixir",West,"New Mexico",USA,"Hot Beverages",Remi,59,22066,23954,21653.00,2023
+"Electric Elixir",West,"New Mexico",USA,"Hot Beverages",Remi,1,374,406,367.00,2022
+"Electric Elixir",South,"North Carolina",USA,"Hot Beverages",Remi,9,3366,3654,3303.00,2022
+"Electric Elixir",South,"West Virginia",USA,"Hot Beverages",Remi,4,1496,1624,1468.00,2022
+"Electric Elixir",Midwest,Wisconsin,USA,"Hot Beverages",Remi,71,26554,28826,26057.00,2023
+"Enchanted Euphoria",South,Arkansas,USA,Mocktails,Buford,51,14484,15453,18564.00,2022
+"Enchanted Euphoria",South,Kentucky,USA,Mocktails,Buford,53,15052,16059,19292.00,2021
+"Enchanted Euphoria",South,Kentucky,USA,Mocktails,Buford,2,568,606,728.00,2022
+"Enchanted Euphoria",South,Louisiana,USA,Mocktails,Buford,11,3124,3333,4004.00,2023
+"Enchanted Euphoria",South,Louisiana,USA,Mocktails,Buford,77,21868,23331,28028.00,2022
+"Enchanted Euphoria",South,Louisiana,USA,Mocktails,Buford,133,37772,40299,48412.00,2021
+"Enchanted Euphoria",South,Maryland,USA,Mocktails,Buford,19,5396,5757,6916.00,2023
+"Enchanted Euphoria",South,Maryland,USA,Mocktails,Buford,98,27832,29694,35672.00,2022
+"Enchanted Euphoria",Midwest,Nebraska,USA,Mocktails,Buford,70,19880,21210,25480.00,2023
+"Enchanted Euphoria",South,"North Carolina",USA,Mocktails,Buford,84,23856,25452,30576.00,2022
+"Enchanted Euphoria",West,Oregon,USA,Mocktails,Buford,73,20732,22119,26572.00,2021
+"Enchanted Euphoria",South,"South Carolina",USA,Mocktails,Buford,121,34364,36663,44044.00,2022
+"Enchanted Euphoria",Northeast,Vermont,USA,Mocktails,Buford,73,20732,22119,26572.00,2021
+"Enchanted Euphoria",West,Washington,USA,Mocktails,Buford,84,23856,25452,30576.00,2022
+"Frosted Flare",West,Arizona,USA,"Soft Drinks",Buford,10,4070,2860,5590.00,2022
+"Frosted Flare",West,Colorado,USA,"Soft Drinks",Buford,67,27269,19162,37453.00,2022
+"Frosted Flare",Northeast,Connecticut,USA,"Soft Drinks",Buford,97,39479,27742,54223.00,2023
+"Frosted Flare",South,Delaware,USA,"Soft Drinks",Buford,91,37037,26026,50869.00,2023
+"Frosted Flare",South,Florida,USA,"Soft Drinks",Buford,44,17908,12584,24596.00,2023
+"Frosted Flare",South,Kentucky,USA,"Soft Drinks",Buford,19,7733,5434,10621.00,2023
+"Frosted Flare",Midwest,Minnesota,USA,"Soft Drinks",Buford,20,8140,5720,11180.00,2022
+"Frosted Flare",Midwest,Minnesota,USA,"Soft Drinks",Buford,59,24013,16874,32981.00,2023
+"Frosted Flare",Northeast,"New Jersey",USA,"Soft Drinks",Buford,91,37037,26026,50869.00,2022
+"Frosted Flare",South,"North Carolina",USA,"Soft Drinks",Buford,13,5291,3718,7267.00,2022
+"Frosted Flare",South,Oklahoma,USA,"Soft Drinks",Buford,9,3663,2574,5031.00,2023
+"Frosted Flare",South,"South Carolina",USA,"Soft Drinks",Buford,48,19536,13728,26832.00,2023
+"Frosted Flare",South,"South Carolina",USA,"Soft Drinks",Buford,1,407,286,559.00,2022
+"Frosted Flare",South,Texas,USA,"Soft Drinks",Buford,58,23606,16588,32422.00,2022
+"Frosted Flare",West,Wyoming,USA,"Soft Drinks",Buford,53,21571,15158,29627.00,2023
+"Frosty Fizz",South,Alabama,USA,Juices,Rowan,86,37324,27004,61662.00,2023
+"Frosty Fizz",West,Alaska,USA,Juices,Rowan,93,40362,29202,66681.00,2023
+"Frosty Fizz",West,Arizona,USA,Juices,Rowan,14,6076,4396,10038.00,2023
+"Frosty Fizz",South,Florida,USA,Juices,Rowan,44,19096,13816,31548.00,2022
+"Frosty Fizz",South,Kentucky,USA,Juices,Rowan,23,9982,7222,16491.00,2023
+"Frosty Fizz",South,Kentucky,USA,Juices,Rowan,7,3038,2198,5019.00,2022
+"Frosty Fizz",Northeast,Maine,USA,Juices,Rowan,18,7812,5652,12906.00,2022
+"Frosty Fizz",South,Maryland,USA,Juices,Rowan,31,13454,9734,22227.00,2022
+"Frosty Fizz",Midwest,Missouri,USA,Juices,Rowan,36,15624,11304,25812.00,2023
+"Frosty Fizz",South,"North Carolina",USA,Juices,Rowan,52,22568,16328,37284.00,2022
+"Frosty Fizz",Midwest,"North Dakota",USA,Juices,Rowan,28,12152,8792,20076.00,2021
+"Frosty Fizz",West,Oregon,USA,Juices,Rowan,76,32984,23864,54492.00,2023
+"Frosty Fizz",Northeast,"Rhode Island",USA,Juices,Rowan,97,42098,30458,69549.00,2021
+"Frosty Fizz",South,"South Carolina",USA,Juices,Rowan,46,19964,14444,32982.00,2022
+"Frosty Fizz",South,Tennessee,USA,Juices,Rowan,67,29078,21038,48039.00,2023
+"Frosty Fizz",South,"West Virginia",USA,Juices,Rowan,13,5642,4082,9321.00,2022
+"Health Potion",South,Arkansas,USA,Milkshakes,Silas,92,35144,26404,50968.00,2021
+"Health Potion",West,California,USA,Milkshakes,Silas,4,1528,1148,2216.00,2021
+"Health Potion",South,Florida,USA,Milkshakes,Silas,98,37436,28126,54292.00,2022
+"Health Potion",Midwest,Iowa,USA,Milkshakes,Silas,15,5730,4305,8310.00,2022
+"Health Potion",South,Louisiana,USA,Milkshakes,Silas,94,35908,26978,52076.00,2022
+"Health Potion",West,Montana,USA,Milkshakes,Silas,19,7258,5453,10526.00,2022
+"Health Potion",Midwest,Nebraska,USA,Milkshakes,Silas,21,8022,6027,11634.00,2023
+"Health Potion",Northeast,"New Jersey",USA,Milkshakes,Silas,2,764,574,1108.00,2023
+"Health Potion",Northeast,"New york",USA,Milkshakes,Silas,102,38964,29274,56508.00,2022
+"Health Potion",South,"North Carolina",USA,Milkshakes,Silas,71,27122,20377,39334.00,2022
+"Health Potion",West,Oregon,USA,Milkshakes,Silas,23,8786,6601,12742.00,2022
+"Health Potion",South,Texas,USA,Milkshakes,Silas,5,1910,1435,2770.00,2022
+"Health Potion",Northeast,Vermont,USA,Milkshakes,Silas,72,27504,20664,39888.00,2022
+"Health Potion",Northeast,Vermont,USA,Milkshakes,Silas,65,24830,18655,36010.00,2023
+"Health Potion",Midwest,Wisconsin,USA,Milkshakes,Silas,50,19100,14350,27700.00,2021
+"Luminous Liquid",South,Alabama,USA,"Vitamin Drinks",Remi,33,7491,7854,12012.00,2023
+"Luminous Liquid",South,Florida,USA,"Vitamin Drinks",Remi,45,10215,10710,16380.00,2021
+"Luminous Liquid",West,Hawaii,USA,"Vitamin Drinks",Remi,25,5675,5950,9100.00,2022
+"Luminous Liquid",Midwest,Iowa,USA,"Vitamin Drinks",Remi,67,15209,15946,24388.00,2022
+"Luminous Liquid",Midwest,Kansas,USA,"Vitamin Drinks",Remi,54,12258,12852,19656.00,2022
+"Luminous Liquid",Northeast,Maine,USA,"Vitamin Drinks",Remi,37,8399,8806,13468.00,2022
+"Luminous Liquid",Midwest,Michigan,USA,"Vitamin Drinks",Remi,61,13847,14518,22204.00,2023
+"Luminous Liquid",Midwest,Michigan,USA,"Vitamin Drinks",Remi,85,19295,20230,30940.00,2022
+"Luminous Liquid",South,Oklahoma,USA,"Vitamin Drinks",Remi,94,21338,22372,34216.00,2021
+"Luminous Liquid",South,"South Carolina",USA,"Vitamin Drinks",Remi,34,7718,8092,12376.00,2021
+"Luminous Liquid",South,Texas,USA,"Vitamin Drinks",Remi,99,22473,23562,36036.00,2021
+"Luminous Liquid",Northeast,Vermont,USA,"Vitamin Drinks",Remi,96,21792,22848,34944.00,2022
+"Maple Mash UP",Northeast,Maine,USA,"Maple Drinks",Buford,36,18072,28584,39528.00,2021
+"Maple Mash UP",Northeast,Massachusetts,USA,"Maple Drinks",Buford,117,58734,92898,128466.00,2021
+"Maple Mash UP",Northeast,"New Hampshire",USA,"Maple Drinks",Buford,75,37650,59550,82350.00,2021
+"Maple Mash UP",Northeast,"Rhode Island",USA,"Maple Drinks",Buford,82,41164,65108,90036.00,2021
+"Maple Mash UP",Northeast,Vermont,USA,"Maple Drinks",Buford,79,39658,62726,86742.00,2021
+"Moonbeam Brew",West,Arizona,USA,"Iced Teas",Remi,59,21299,23246,38645.00,2023
+"Moonbeam Brew",West,California,USA,"Iced Teas",Remi,19,6859,7486,12445.00,2023
+"Moonbeam Brew",West,Colorado,USA,"Iced Teas",Remi,77,27797,30338,50435.00,2023
+"Moonbeam Brew",South,Delaware,USA,"Iced Teas",Remi,78,28158,30732,51090.00,2023
+"Moonbeam Brew",Midwest,Iowa,USA,"Iced Teas",Remi,3,1083,1182,1965.00,2023
+"Moonbeam Brew",Midwest,Kansas,USA,"Iced Teas",Remi,30,10830,11820,19650.00,2021
+"Moonbeam Brew",South,Louisiana,USA,"Iced Teas",Remi,14,5054,5516,9170.00,2022
+"Moonbeam Brew",South,Maryland,USA,"Iced Teas",Remi,74,26714,29156,48470.00,2021
+"Moonbeam Brew",Northeast,Massachusetts,USA,"Iced Teas",Remi,26,9386,10244,17030.00,2021
+"Moonbeam Brew",South,Mississippi,USA,"Iced Teas",Remi,34,12274,13396,22270.00,2023
+"Moonbeam Brew",Northeast,"New Jersey",USA,"Iced Teas",Remi,55,19855,21670,36025.00,2021
+"Moonbeam Brew",West,"New Mexico",USA,"Iced Teas",Remi,31,11191,12214,20305.00,2023
+"Moonbeam Brew",Midwest,"North Dakota",USA,"Iced Teas",Remi,81,29241,31914,53055.00,2023
+"Moonbeam Brew",Midwest,"South Dakota",USA,"Iced Teas",Remi,31,11191,12214,20305.00,2021
+"Moonbeam Brew",Midwest,"South Dakota",USA,"Iced Teas",Remi,16,5776,6304,10480.00,2023
+"Moonbeam Brew",South,Texas,USA,"Iced Teas",Remi,93,33573,36642,60915.00,2022
+"Moonbeam Brew",South,Texas,USA,"Iced Teas",Remi,69,24909,27186,45195.00,2021
+"Mystic Mist",South,Georgia,USA,"Iced Teas",Remi,5,1895,2095,4350.00,2023
+"Mystic Mist",South,Georgia,USA,"Iced Teas",Remi,57,21603,23883,49590.00,2022
+"Mystic Mist",West,Idaho,USA,"Iced Teas",Remi,31,11749,12989,26970.00,2022
+"Mystic Mist",West,Idaho,USA,"Iced Teas",Remi,30,11370,12570,26100.00,2023
+"Mystic Mist",Midwest,Illinois,USA,"Iced Teas",Remi,31,11749,12989,26970.00,2022
+"Mystic Mist",Northeast,Maine,USA,"Iced Teas",Remi,14,5306,5866,12180.00,2022
+"Mystic Mist",South,Maryland,USA,"Iced Teas",Remi,7,2653,2933,6090.00,2022
+"Mystic Mist",West,Montana,USA,"Iced Teas",Remi,51,19329,21369,44370.00,2022
+"Mystic Mist",Northeast,"New Hampshire",USA,"Iced Teas",Remi,68,25772,28492,59160.00,2023
+"Mystic Mist",Northeast,"New Jersey",USA,"Iced Teas",Remi,99,37521,41481,86130.00,2022
+"Mystic Mist",South,"North Carolina",USA,"Iced Teas",Remi,47,17813,19693,40890.00,2022
+"Mystic Mist",South,"North Carolina",USA,"Iced Teas",Remi,82,31078,34358,71340.00,2023
+"Mystic Mist",Midwest,"North Dakota",USA,"Iced Teas",Remi,49,18571,20531,42630.00,2022
+"Mystic Mist",Northeast,"Rhode Island",USA,"Iced Teas",Remi,70,26530,29330,60900.00,2023
+"Oceanic Oasis",West,Alaska,USA,"Energy Drinks",Marley,26,12584,7826,8294.00,2022
+"Oceanic Oasis",South,Delaware,USA,"Energy Drinks",Marley,81,39204,24381,25839.00,2023
+"Oceanic Oasis",South,Delaware,USA,"Energy Drinks",Marley,31,15004,9331,9889.00,2022
+"Oceanic Oasis",South,Florida,USA,"Energy Drinks",Marley,91,44044,27391,29029.00,2022
+"Oceanic Oasis",West,Hawaii,USA,"Energy Drinks",Marley,32,15488,9632,10208.00,2022
+"Oceanic Oasis",Midwest,Iowa,USA,"Energy Drinks",Marley,30,14520,9030,9570.00,2022
+"Oceanic Oasis",South,Kentucky,USA,"Energy Drinks",Marley,71,34364,21371,22649.00,2022
+"Oceanic Oasis",Midwest,Minnesota,USA,"Energy Drinks",Marley,96,46464,28896,30624.00,2022
+"Oceanic Oasis",South,Mississippi,USA,"Energy Drinks",Marley,60,29040,18060,19140.00,2022
+"Oceanic Oasis",Midwest,Missouri,USA,"Energy Drinks",Marley,75,36300,22575,23925.00,2022
+"Oceanic Oasis",Northeast,"New Jersey",USA,"Energy Drinks",Marley,56,27104,16856,17864.00,2023
+"Oceanic Oasis",Northeast,"New york",USA,"Energy Drinks",Marley,1,484,301,319.00,2022
+"Oceanic Oasis",Midwest,"North Dakota",USA,"Energy Drinks",Marley,6,2904,1806,1914.00,2023
+"Oceanic Oasis",Midwest,Ohio,USA,"Energy Drinks",Marley,6,2904,1806,1914.00,2023
+"Oceanic Oasis",West,Oregon,USA,"Energy Drinks",Marley,17,8228,5117,5423.00,2023
+"Oceanic Oasis",Northeast,"Rhode Island",USA,"Energy Drinks",Marley,23,11132,6923,7337.00,2022
+"Oceanic Oasis",South,Tennessee,USA,"Energy Drinks",Marley,93,45012,27993,29667.00,2021
+"Oceanic Oasis",West,Utah,USA,"Energy Drinks",Marley,99,47916,29799,31581.00,2022
+"Pancake Flip Frappe",South,Arkansas,USA,Smoothies,Remi,79,29309,38394,37683.00,2022
+"Pancake Flip Frappe",Northeast,Connecticut,USA,Smoothies,Remi,3,1113,1458,1431.00,2022
+"Pancake Flip Frappe",South,Louisiana,USA,Smoothies,Remi,16,5936,7776,7632.00,2022
+"Pancake Flip Frappe",Midwest,Nebraska,USA,Smoothies,Remi,8,2968,3888,3816.00,2022
+"Pecan Pie Latte",South,Delaware,USA,"Hot Beverages",Remi,57,20406,20178,28272.00,2022
+"Pecan Pie Latte",Midwest,Kansas,USA,"Hot Beverages",Remi,60,21480,21240,29760.00,2022
+"Pecan Pie Latte",Northeast,Maine,USA,"Hot Beverages",Remi,107,38306,37878,53072.00,2022
+"Pecan Pie Latte",Midwest,Michigan,USA,"Hot Beverages",Remi,41,14678,14514,20336.00,2022
+"Pecan Pie Latte",Northeast,"New york",USA,"Hot Beverages",Remi,68,24344,24072,33728.00,2022
+"Pecan Pie Latte",West,Oregon,USA,"Hot Beverages",Remi,46,16468,16284,22816.00,2022
+"Pecan Pie Latte",Northeast,"Rhode Island",USA,"Hot Beverages",Remi,85,30430,30090,42160.00,2022
+"Pecan Pie Latte",West,Wyoming,USA,"Hot Beverages",Remi,73,26134,25842,36208.00,2022
+"Rainbow Rush",West,California,USA,"Energy Drinks",Marley,72,31536,33408,28008.00,2023
+"Rainbow Rush",South,Delaware,USA,"Energy Drinks",Marley,60,26280,27840,23340.00,2021
+"Rainbow Rush",South,Florida,USA,"Energy Drinks",Marley,16,7008,7424,6224.00,2022
+"Rainbow Rush",South,Florida,USA,"Energy Drinks",Marley,31,13578,14384,12059.00,2021
+"Rainbow Rush",South,Georgia,USA,"Energy Drinks",Marley,12,5256,5568,4668.00,2021
+"Rainbow Rush",South,Louisiana,USA,"Energy Drinks",Marley,57,24966,26448,22173.00,2022
+"Rainbow Rush",Northeast,Massachusetts,USA,"Energy Drinks",Marley,94,41172,43616,36566.00,2023
+"Rainbow Rush",Northeast,Massachusetts,USA,"Energy Drinks",Marley,41,17958,19024,15949.00,2021
+"Rainbow Rush",Midwest,Minnesota,USA,"Energy Drinks",Marley,36,15768,16704,14004.00,2022
+"Rainbow Rush",Northeast,"New Jersey",USA,"Energy Drinks",Marley,51,22338,23664,19839.00,2021
+"Rainbow Rush",South,"North Carolina",USA,"Energy Drinks",Marley,64,28032,29696,24896.00,2022
+"Rainbow Rush",South,Virginia,USA,"Energy Drinks",Marley,75,32850,34800,29175.00,2023
+Sapped,Northeast,Massachusetts,USA,"Maple Drinks",Buford,33,12342,20856,30756.00,2021
+Sapped,Northeast,"New Hampshire",USA,"Maple Drinks",Buford,33,12342,20856,30756.00,2021
+Sapped,Northeast,"Rhode Island",USA,"Maple Drinks",Buford,46,17204,29072,42872.00,2021
+Sapped,Northeast,Vermont,USA,"Maple Drinks",Buford,37,13838,23384,34484.00,2021
+"Secret Synergy",South,Alabama,USA,Mocktails,Buford,93,44547,29016,48639.00,2022
+"Secret Synergy",South,Arkansas,USA,Mocktails,Buford,11,5269,3432,5753.00,2022
+"Secret Synergy",West,California,USA,Mocktails,Buford,22,10538,6864,11506.00,2021
+"Secret Synergy",South,Florida,USA,Mocktails,Buford,53,25387,16536,27719.00,2023
+"Secret Synergy",Midwest,Iowa,USA,Mocktails,Buford,33,15807,10296,17259.00,2022
+"Secret Synergy",Midwest,Iowa,USA,Mocktails,Buford,68,32572,21216,35564.00,2023
+"Secret Synergy",Midwest,Kansas,USA,Mocktails,Buford,92,44068,28704,48116.00,2022
+"Secret Synergy",South,Louisiana,USA,Mocktails,Buford,27,12933,8424,14121.00,2022
+"Secret Synergy",South,Mississippi,USA,Mocktails,Buford,51,24429,15912,26673.00,2021
+"Secret Synergy",Midwest,Missouri,USA,Mocktails,Buford,48,22992,14976,25104.00,2022
+"Secret Synergy",South,"North Carolina",USA,Mocktails,Buford,85,40715,26520,44455.00,2022
+"Secret Synergy",West,Oregon,USA,Mocktails,Buford,21,10059,6552,10983.00,2023
+"Secret Synergy",Northeast,Vermont,USA,Mocktails,Buford,62,29698,19344,32426.00,2022
+"Secret Synergy",South,Virginia,USA,Mocktails,Buford,1,479,312,523.00,2023
+"Sparkle Splash",West,Alaska,USA,"Soft Drinks",Buford,37,18204,9879,11507.00,2023
+"Sparkle Splash",West,Alaska,USA,"Soft Drinks",Buford,27,13284,7209,8397.00,2022
+"Sparkle Splash",Northeast,Connecticut,USA,"Soft Drinks",Buford,66,32472,17622,20526.00,2022
+"Sparkle Splash",Northeast,Connecticut,USA,"Soft Drinks",Buford,94,46248,25098,29234.00,2023
+"Sparkle Splash",Northeast,Maine,USA,"Soft Drinks",Buford,87,42804,23229,27057.00,2023
+"Sparkle Splash",Northeast,Massachusetts,USA,"Soft Drinks",Buford,80,39360,21360,24880.00,2023
+"Sparkle Splash",Midwest,Minnesota,USA,"Soft Drinks",Buford,70,34440,18690,21770.00,2022
+"Sparkle Splash",South,Mississippi,USA,"Soft Drinks",Buford,83,40836,22161,25813.00,2022
+"Sparkle Splash",Northeast,"New Jersey",USA,"Soft Drinks",Buford,132,64944,35244,41052.00,2022
+"Sparkle Splash",South,"North Carolina",USA,"Soft Drinks",Buford,99,48708,26433,30789.00,2022
+"Sparkle Splash",Midwest,Ohio,USA,"Soft Drinks",Buford,119,58548,31773,37009.00,2022
+"Sparkle Splash",West,Utah,USA,"Soft Drinks",Buford,50,24600,13350,15550.00,2022
+"Sparkle Splash",South,Virginia,USA,"Soft Drinks",Buford,24,11808,6408,7464.00,2023
+"Sparkle Splash",Midwest,Wisconsin,USA,"Soft Drinks",Buford,64,31488,17088,19904.00,2023
+"Sparkle Splash",Midwest,Wisconsin,USA,"Soft Drinks",Buford,91,44772,24297,28301.00,2021
+"Sparkle Splash",West,Wyoming,USA,"Soft Drinks",Buford,71,34932,18957,22081.00,2022
+"Twilight Tonic",South,Alabama,USA,"Sports Drinks",Harley,73,25988,35989,60152.00,2022
+"Twilight Tonic",West,Alaska,USA,"Sports Drinks",Harley,21,7476,10353,17304.00,2021
+"Twilight Tonic",South,Delaware,USA,"Sports Drinks",Harley,76,27056,37468,62624.00,2021
+"Twilight Tonic",South,Florida,USA,"Sports Drinks",Harley,43,15308,21199,35432.00,2023
+"Twilight Tonic",South,Maryland,USA,"Sports Drinks",Harley,10,3560,4930,8240.00,2022
+"Twilight Tonic",Midwest,Minnesota,USA,"Sports Drinks",Harley,71,25276,35003,58504.00,2021
+"Twilight Tonic",West,Montana,USA,"Sports Drinks",Harley,29,10324,14297,23896.00,2021
+"Twilight Tonic",Northeast,"New york",USA,"Sports Drinks",Harley,30,10680,14790,24720.00,2023
+"Twilight Tonic",Midwest,Ohio,USA,"Sports Drinks",Harley,22,7832,10846,18128.00,2022
+"Twilight Tonic",South,Oklahoma,USA,"Sports Drinks",Harley,31,11036,15283,25544.00,2022
+"Twilight Tonic",South,"South Carolina",USA,"Sports Drinks",Harley,31,11036,15283,25544.00,2021
+"Twilight Tonic",South,Tennessee,USA,"Sports Drinks",Harley,86,30616,42398,70864.00,2021
+"Twilight Tonic",South,Tennessee,USA,"Sports Drinks",Harley,80,28480,39440,65920.00,2022
+"Twilight Tonic",South,Texas,USA,"Sports Drinks",Harley,64,22784,31552,52736.00,2023
+"Twilight Tonic",South,"West Virginia",USA,"Sports Drinks",Harley,97,34532,47821,79928.00,2022
+"Twilight Tonic",Midwest,Wisconsin,USA,"Sports Drinks",Harley,65,23140,32045,53560.00,2023
+"Twilight Tonic",Midwest,Wisconsin,USA,"Sports Drinks",Harley,98,34888,48314,80752.00,2022
+"Twilight Tonic",West,Wyoming,USA,"Sports Drinks",Harley,27,9612,13311,22248.00,2022
+"Velvet Vortex",West,Colorado,USA,Potions,Journey,73,27229,28032,38471.00,2022
+"Velvet Vortex",Northeast,Connecticut,USA,Potions,Journey,24,8952,9216,12648.00,2022
+"Velvet Vortex",West,Idaho,USA,Potions,Journey,60,22380,23040,31620.00,2022
+"Velvet Vortex",Midwest,Illinois,USA,Potions,Journey,90,33570,34560,47430.00,2022
+"Velvet Vortex",Midwest,Kansas,USA,Potions,Journey,81,30213,31104,42687.00,2022
+"Velvet Vortex",South,Louisiana,USA,Potions,Journey,89,33197,34176,46903.00,2022
+"Velvet Vortex",Midwest,Minnesota,USA,Potions,Journey,59,22007,22656,31093.00,2021
+"Velvet Vortex",South,Mississippi,USA,Potions,Journey,39,14547,14976,20553.00,2023
+"Velvet Vortex",South,Mississippi,USA,Potions,Journey,72,26856,27648,37944.00,2021
+"Velvet Vortex",Midwest,Nebraska,USA,Potions,Journey,47,17531,18048,24769.00,2022
+"Velvet Vortex",Midwest,"North Dakota",USA,Potions,Journey,90,33570,34560,47430.00,2021
+"Velvet Vortex",Midwest,Ohio,USA,Potions,Journey,40,14920,15360,21080.00,2021
+"Velvet Vortex",West,Oregon,USA,Potions,Journey,26,9698,9984,13702.00,2022
+"Velvet Vortex",Northeast,"Rhode Island",USA,Potions,Journey,42,15666,16128,22134.00,2023
+"Velvet Vortex",South,Tennessee,USA,Potions,Journey,47,17531,18048,24769.00,2022
+"Velvet Vortex",Northeast,Vermont,USA,Potions,Journey,86,32078,33024,45322.00,2023
+"Velvet Vortex",Northeast,Vermont,USA,Potions,Journey,44,16412,16896,23188.00,2022
+"Velvet Vortex",Midwest,Wisconsin,USA,Potions,Journey,11,4103,4224,5797.00,2022
+"Velvet Vortex",West,Wyoming,USA,Potions,Journey,95,35435,36480,50065.00,2022
+"Velvet Vortex",West,Wyoming,USA,Potions,Journey,62,23126,23808,32674.00,2021
