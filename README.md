@@ -1,5 +1,17 @@
 # Beverage Orders ETL Project
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Objective](#objective)
+- [Dataset](#dataset)
+- [ETL Process](#etl-process)
+- [Data Model Entity Relationship Diagrams](#data-model-entity-relationship-diagrams)
+- [Final Output & Analysis](#final-output--analysis)
+- [Tools & Technologies](#tools--technologies)
+
+
 ##  Project Overview
 This project develops an end-to-end ETL (Extract, Transform, Load) pipeline to integrate beverage order data from 2021–2023 into a single, clean, and analysis-ready dataset.
 
