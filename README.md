@@ -47,6 +47,11 @@ The following datasets were used in this project:
 - [beverage-orders-2022 (187 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2022.csv)
 - [beverage-orders-2023 (102 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2023.csv)
 
+**Download ALL datasets (ZIP):**  
+[Download dataset.zip](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/main/dataset.zip)
+
+
+
 All data was successfully merged into one table:
  consolidated_beverage_data
 
