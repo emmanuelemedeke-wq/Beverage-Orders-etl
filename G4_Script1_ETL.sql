@@ -1,6 +1,5 @@
 /* 
   G4_Script1_ETL.sql
-  DATA 635 – Assignment 6.1
   Team 4: Emmanuel Emedeke, Jasmine Franklin, Dennis Evangelista, Frank Gyasi
   Purpose: ETL for beverage orders 2021–2023
 */
