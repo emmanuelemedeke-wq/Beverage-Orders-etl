@@ -27,9 +27,13 @@ As a result, leadership could not generate reliable insights from the data.
 	• Build a consolidated dataset for reporting and decision-making
 
 ##  Dataset
+
+The following datasets were used in this project:
+
+
 - [beverage-orders-2021 (72 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2021.csv)
 - [beverage-orders-2022 (187 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2022.csv)
-- beverage-orders-2023 (102 rows)
+- [beverage-orders-2023 (102 rows)](https://raw.githubusercontent.com/emmanuelemedeke-wq/Beverage-Orders-etl/refs/heads/main/dataset/beverage-orders-2023.csv)
 
 All data was successfully merged into one table:
  consolidated_beverage_data
@@ -41,39 +45,100 @@ All data was successfully merged into one table:
 1. Extract
 
 	• Imported CSV files:
+
 		○ beverage-orders-2021.csv
 
-		○ beverage-orders-2022.csv
+		○ beverage-orders-2022.csv 
 
 		○ beverage-orders-2023.csv
 
 	• Loaded into MySQL staging tables using Table Import Wizard
 
 
+2. Transform
+
+Key transformations included:
+
+	• Standardizing column structure across all years
+	• Handling missing fields (e.g., caffeine values)
+	• Mapping:
+		○ Product → Category
+		○ Category → Vice President (VP)
+	• Adding calculated fields:
+```sql
+Volume_Quantity = Quantity * Volume
+Weight_Quantity = Quantity * Weight
+Revenue_Quantity = Quantity * Per_Unit_Price
+```
+
+
+	• Adding a Year column for time-based analysis
+	• Ensuring consistent data types and naming conventions
+
+
+
+3. Load
+
+	• Merged all cleaned datasets into:
+ consolidated_beverage_data
+	• Verified total row count:
+
+```sql
+SELECT COUNT(*) FROM consolidated_beverage_data;
+```
+
+Result: 361 rows successfully loaded
+
+
+
+
+
+## Data Model Entity Relationship Diagrams
+### Original Data Structure
+	• Separate tables for each year
+	• Inconsistent columns
+	• No clear relationships
+	• Missing analytical structure
+
+![ERD Original](erd_original.png)
+
+### Updated Data Structure
+	• Introduced structured tables:
+		○ Product_Data
+		○ Beverage_Orders
+		○ category
+		○ org_chart_table
+	• Implemented foreign keys
+	• Improved scalability and data integrity
+
+![ERD Updated](erd_updated.png)
+
+## Final Output & Analysis
+
+The final dataset supports:
+
+	• Year-over-year performance analysis
+	• Category-level insights
+	• Regional and state-level comparisons
+	• VP (territory manager) accountability
+	• Revenue, volume, and weight analysis
+
+Example query:
+```sql
+SELECT Category, Year, SUM(Revenue_Quantity)
+FROM consolidated_beverage_data
+GROUP BY Category, Year;
+```
 
 
 ##  Tools & Technologies
 - SQL (MySQL Workbench)
 - ETL processes
 - Data cleaning and transformation
+- Data Modeling (ERD)
+- CSV Data Integration 
 
 
-
-## Data Model Entity Relationship Diagrams
-### Original Data Structure
-![ERD Original](erd_original.png)
-
-### Updated Data Structure
-![ERD Updated](erd_updated.png)
-
-
-
-
-
-##  ETL Process
-1. Extract data from multiple yearly datasets
-2. Transform data (cleaning, formatting, standardization)
-3. Load into a consolidated table: `consolidated_beverage_data`
 
 ##  Results
 - Successfully combined datasets into a single table (~361 rows)
