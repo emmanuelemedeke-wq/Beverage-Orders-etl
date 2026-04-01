@@ -9,7 +9,6 @@
 - [ETL Process](#etl-process)
 - [Data Model Entity Relationship Diagrams](#data-model-entity-relationship-diagrams)
 - [Final Output & Analysis](#final-output--analysis)
-- [Final Output Preview](#final-output-preview)
 - [Tools & Technologies](#tools--technologies)
 
 
@@ -153,7 +152,7 @@ GROUP BY Category, Year;
 ```
 
 
-## Final Output Preview
+**Final Output Preview**
 
 The consolidated dataset contains 361 records after ETL processing.
 
